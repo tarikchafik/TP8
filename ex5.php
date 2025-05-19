@@ -31,7 +31,7 @@ if (isset($_POST['envoyer'])) {
         <label>Nom :</label><br>
         <input type="text" name="nom" required><br><br>
 
-        <label>Message :</label><br>
+        <label>Message:</label><br>
         <textarea name="message" rows="4" cols="40" required></textarea><br><br>
 
         <input type="submit" name="envoyer" value="Envoyer">
